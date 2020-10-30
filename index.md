@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Daniel F Hernández Gardiol's CV
 ---
-# David Whipp
+# Daniel Hernandez
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
