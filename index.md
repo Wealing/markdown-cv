@@ -555,17 +555,25 @@ Co-supervised with Todd Ehlers
 
 ## Professional training
 
-`2020`
-**Learning in Higher Education (UP1)**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
-Five credit introductory course for university pedagogy.
-
 `2019`
-**Unilead leadership program**, *Faculty of Science, University of Helsinki*, Helsinki, Finland.<br/>
-Leadership program organized by the Faculty of Science for the University of Helsinki supervisors to support them in their managerial duties and develop their leadership skills.
+**ISO 27001 Lead Implementer**, *The Knowledge Academy*, Geneva, Switzerland.<br/>
+Ya Ya ya.
 
-`2007`
-**Classroom observation**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA.<br/>
-A short course on how to conduct and share classroom observations.
+`2018`
+**Elasticsearch Engineer I**, *Elastic*, Frankfurt, Germany.<br/>
+Ya Ya ya.
+
+`2017`
+**Entrepreneurship Training Business Creation**, *CTI*, Geneva, Switzerland.<br/>
+Ya Ya ya.
+
+`2017`
+**Design Thinking Workshop**, *Octanis Association, Ateliers des Renens*, Renens, Switzerland.<br/>
+Ya Ya ya.
+
+`2012`
+**IGEM Regional Gold Medal**, *IGEM*, Mexico City, Mexico.<br/>
+Ya Ya ya.
 
 ## Professional service
 
@@ -653,17 +661,17 @@ American Geophysical Union
 
 ## Languages
 
-Native: English
+Native: English, Spanish
 
-Basic: Finnish, French, German
+Fluent: French
 
 ## Personal
 
-Birth date: 9 March 1980
+Birth date: 14 September 1986
 
-Citizenship: USA
+Citizenship: Spain, USA, Uruguay
 
-Residence: Finland (Permanent resident)
+Residence: Switzerland (Permanent resident)
 
 Family: Married, two children
 
