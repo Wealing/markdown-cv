@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Daniel F Hernández Gardiol's CV
+title: Daniel Hernandez CV 
 ---
-# Daniel Hernandez
+# Daniel F Hernández Gardiol
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
