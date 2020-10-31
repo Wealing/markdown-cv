@@ -29,7 +29,21 @@ Rue du Sablon 13, 1110 Morges, Switzerland<br/>
 ## Experience
 
 `2021-`
-**Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Senior Data Scientist/Engineer**, *Qim info*, Geneva, Switzerland.
+
+Working as one of two senior members of Qim info's Data Science Pole. First mission is to bring to life Qim info's first internally developed product, which is a cloud-based application that monitors Instagram for illegal luxury watch sales activity.
+o	Define application with mockups and user requirements
+o	Define product milestones to get client feedback as efficiently as possible
+o	Define User requirements and sprints with team.
+o	Use machine-learning approaches to predict  sales activity
+o	Deployment of ML models with mlflow
+o	Create python and pySpark based backend
+o	Creation and deployment of serverless data pipelines
+o	Deploy and Manage backend Cloud infrastructure using Terraform 
+o	Continuous Deployment / Continuous Integration with Gitlab 
+o	DOCKer 
+Technologies: Terraform, AWS (Lambda, Glue), Python, PySpark, mlflow, scikit-learn, Balsamiq, Gitlab
+
 
 `2000-2002`
 **Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
@@ -55,6 +69,7 @@ M. Ataman, **D.F. Hernandez Gardiol**, G. Fengos, and V. Hatzimanikatis. redGEM:
 
 `2016`
 D. Waltemath et al. Toward Community Standards and Software for Whole-Cell Modeling. *IEEE Transactions on Biomedical Engineering*. doi: [10.1109/TBME.2016.2560762](https://doi.org/10.1109/TBME.2016.2560762), 2016.
+
 
 
 ## Grants and funding
@@ -110,16 +125,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 `2014`
 **Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
 
-`2007`
-**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
-
-**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2006`
-**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
-
-`2003`
-**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+•	Invited to Chemical Engineering and Life Sciences PhD programs, EPFL	2014
 
 ## Invited talks
 
@@ -250,16 +256,33 @@ Ya Ya ya.
 Ya Ya ya.
 
 `2017`
-**Entrepreneurship Training Business Creation**, *CTI*, Geneva, Switzerland.<br/>
+**Entrepreneurship Training Business Creation**, *Swiss Commission for Technology and Innovation*, Geneva, Switzerland.<br/>
 Ya Ya ya.
 
-`2017`
 **Design Thinking Workshop**, *Octanis Association, Ateliers des Renens*, Renens, Switzerland.<br/>
 Ya Ya ya.
+
+`2016`
+Microfluidics for Lab-on-a-Chip course – EPFL, Lausanne	2016
+
+`2015`
+Whole-cell modeling summer school- Rostock
 
 `2012`
 **IGEM Regional Gold Medal**, *IGEM*, Mexico City, Mexico.<br/>
 Ya Ya ya.
+
+
+•	EMBO Course: Introduction to Synthetic Biology - Universidad de Buenos Aires, Argentina	2012
+•	
+•	Yeast Systems Biology International Course - Institut Pasteur, Montevideo, Uruguay	2011
+    o	Performed double deletion assay in yeast.
+    o	Elucidated and modeled the MAPK signaling pathway.
+•	Course: Modeling and Analysis in Systems Biology - Univ de Chile, Santiago	2010
+•	Systems Biology Approaches to the Study of the Minimal Cell – Montevideo, Uruguay	2010
+•	Volunteer at Department of Limnology for one Semester – UdelaR, Montevideo, Uruguay	2009
+In charge of maintaining and studying the incorporation of phosphate and generation of polyphosphate crystals by the cyano-bacteria C. Raciborskii and P. agardhii.
+
 
 ## Professional service
 
