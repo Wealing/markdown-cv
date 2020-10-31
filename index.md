@@ -3,27 +3,25 @@ layout: cv
 title: Daniel Hernandez CV 
 ---
 # Daniel F Hernández Gardiol
-Associate professor, University of Helsinki
+Data Science Engineer | Computational Biotechnologist | Product Developer
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Rue du Sablon 13, 1110 Morges, Switzerland<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="dan.fhg@gmail.com">dan.fhg@gmail.com</a> - +41 (0)79 836 41 23
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://github.com/wealing"><i class="fab fa-github"></i> wealing</a> - 
+  <a href="https://gitlab.com/invilico/me"><i class="fab fa-gitlab"></i> invilico</a> - 
+  <a href="https://orcid.org/0000-0003-4933-1145"><i class="ai ai-orcid"></i> 0000-0003-4933-1145</a> - 
+  <a href="https://twitter.com/dan_fhg"><i class="fab fa-twitter"></i> @dan_fhg</a>
+  <a href="https://www.linkedin.com/in/danfhg/"><i class="fab fa-linkedin"></i> danfhg</a>
+
 </div>
 
 ## Education
 
 `2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+**Master of Science, Bioengineering**, *École Polytecnique de Lausanne*, Lausanne, Switzerland.
 
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
@@ -32,30 +30,6 @@ FI-00014 University of Helsinki, Finland<br/>
 
 `2021-`
 **Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2017-present`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
-
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
-
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
-
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2001-2003`
-**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
 `2000-2002`
 **Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
@@ -82,30 +56,6 @@ M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of 
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
 
 D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. M. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*. [10.1029/2019TC005914](https://doi.org/10.1029/2019TC005914), 2020.
-
-`2019`
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
-
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, *5*(4). doi: [10.1126/sciadv.aav3482](https://dx.doi.org/10.1126/sciadv.aav3482), 2019.
-
-`2018`
-M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
-plate deformation in orogen syntaxes. *Solid Earth*, 9, 1207-1224. doi: [10.5194/se-9-1207-2018](https://doi.org/10.5194/se-9-1207-2018), 2018.
-
-`2016`
-K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
-
-`2014`
-**D. M. Whipp**, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
-
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
-
-I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
-
-`2009`
-**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
-
-T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
 
 `2007`
 **D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
