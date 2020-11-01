@@ -24,24 +24,24 @@ Rue du Sablon 13, 1110 Morges, Switzerland<br/>
 **Master of Science, Bioengineering**, *Ecole Polytechnique Fédérale de Lausanne*, Lausanne, Switzerland.
 
 `1998-2002`
-**B.S., Biology** (Systems Biology Specialization), *University of the Republic*, Montevideo, Uruguay.
+**B.S., Biology*- \- (Systems Biology Specialization), *University of the Republic*, Montevideo, Uruguay.
 
 ## Experience
 
 `2020-`
 **Senior Data Scientist/Engineer**, *Qim info*, Geneva, Switzerland.
 
-Working as one of two senior members of Qim info's Data Science Pole. First mission is to bring to life Qim info's first internally developed product, which is a cloud-based application that monitors Instagram for illegal luxury watch sales activity.
-* Define application with mockups and user requirements
-* Define product milestones to get client feedback as efficiently as possible
-* Define User requirements and sprints with team.
-* Use machine-learning approaches to predict  sales activity
-* Deployment of ML models with mlflow
-* Create python and pySpark based backend
-* Creation and deployment of serverless data pipelines
-* Deploy and Manage backend Cloud infrastructure using Terraform 
-* Continuous Deployment / Continuous Integration with Gitlab 
-* DOCKer 
+Working as one of two senior members of Qim info's Data Science Pole. First mission is to bring to life Qim info's first internally developed product, which is a cloud-based application that monitors Instagram for illegal luxury watch sales activity:
+- \- Define application with mockups and user requirements
+- \- Define product milestones to get client feedback as efficiently as possible
+- \- Define User requirements and sprints with team.
+- \- Use machine-learning approaches to predict  sales activity
+- \- Deployment of ML models with mlflow
+- \- Create python and pySpark based backend
+- \- Creation and deployment of serverless data pipelines
+- \- Deploy and Manage backend Cloud infrastructure using Terraform 
+- \- Continuous Deployment / Continuous Integration with Gitlab 
+- \- DOCKer 
 Technologies: Terraform, AWS (Lambda, Glue), Python, PySpark, mlflow, scikit-learn, Balsamiq, Gitlab
 
 
@@ -49,26 +49,26 @@ Technologies: Terraform, AWS (Lambda, Glue), Python, PySpark, mlflow, scikit-lea
 
 **SaaS Lead / Product Owner** (12.2017-04.2018), *Tsquared Insights*, Geneva, Switzerland.
 Lead development of big data analytics platform. This platform provides end-users an intuitive UI for self-service large-scale online market research, powered by Terabytes of online logs. 
-* Lead development of Web-based analytics platform. Proactively communicate, architect and implement solutions A to Z, including end-user training 
-* Responsible for delivering application in production, coordinating 4 departments (Operations, Sales, R&D, Upper Management)
-* Managed 10-person development team using Agile methodologies and remote working
-* In charge of product design, system architecting, finances/administration, deployment, testing, and client success
-* Steered platform development to fit needs of end-users
-* Hosted on AWS infrastructure and powered by Elasticsearch, Java Springboot, Angular
+- \- Lead development of Web-based analytics platform. Proactively communicate, architect and implement solutions A to Z, including end-user training 
+- \- Responsible for delivering application in production, coordinating 4 departments (Operations, Sales, R&D, Upper Management)
+- \- Managed 10-person development team using Agile methodologies and remote working
+- \- In charge of product design, system architecting, finances/administration, deployment, testing, and client success
+- \- Steered platform development to fit needs of end-users
+- \- Hosted on AWS infrastructure and powered by Elasticsearch, Java Springboot, Angular
 Technologies: Slack, Jira, Balsamiq, Figma, Git, Elasticsearch, MariaDB, Python, AWS
 
 **Big Data Scientist / Engineer** (03.2018-01.2020), *Tsquared Insights*, Geneva, Switzerland.
 Building pipelines and data infrastructure to deliver client projects and to make team member’s jobs more efficient.
-* Automated extraction jobs performed with Hive, PySpark
-* Administrator to AWS account, handling all cloud infrastructure services (storage, clusters, pipelines, role-based user access, etc.)
-* Created and maintained internal “Product Data Base”
-* Built pipeline that performed web-scraping at large volumes (19+ sites), wrangles data, and inserts structured data to a relational DB for analysts/API’s to access
-* Successfully coordinated and led operations on Tsquared’s first API deal, including initial R&D and ongoing deliveries, from kick-off to delivery, and maintenance and updating
-* Successfully kicked-off, led and delivered Ecommerce database project
-* Creation of a method to model online user's genders based on browsing activity
-* Operated and maintained Elasticsearch cluster
-* Certified as an Elasticsearch engineer 
-* Trained in ISO 27001 Lead implementation and created a plan for cloud infrastructure and data to be certified
+- \- Automated extraction jobs performed with Hive, PySpark
+- \- Administrator to AWS account, handling all cloud infrastructure services (storage, clusters, pipelines, role-based user access, etc.)
+- \- Created and maintained internal “Product Data Base”
+- \- Built pipeline that performed web-scraping at large volumes (19+ sites), wrangles data, and inserts structured data to a relational DB for analysts/API’s to access
+- \- Successfully coordinated and led operations on Tsquared’s first API deal, including initial R&D and ongoing deliveries, from kick-off to delivery, and maintenance and updating
+- \- Successfully kicked-off, led and delivered Ecommerce database project
+- \- Creation of a method to model online user's genders based on browsing activity
+- \- Operated and maintained Elasticsearch cluster
+- \- Certified as an Elasticsearch engineer 
+- \- Trained in ISO 27001 Lead implementation and created a plan for cloud infrastructure and data to be certified
 Technologies: Python, AWS, Elasticsearch, Hive, Spark, R
 
 
@@ -77,7 +77,7 @@ Technologies: Python, AWS, Elasticsearch, Hive, Spark, R
 **Cheminformatics Consulting**, *Novo Nordisk Center for Biosustainability*, Copenhagen, Denmark.
 
 Cheminformatics and ML applied to biochemical systems
-* Cheminformatics and linear regression techniques to estimate properties of biochemical reactions. Delivered in the format of a python package built on scientific python
+- \- Cheminformatics and linear regression techniques to estimate properties of biochemical reactions. Delivered in the format of a python package built on scientific python
 Bioinformatics approach to predict novel solvents for alkanoates
 
 ## Publications
@@ -310,8 +310,8 @@ Ya Ya ya
 yayaya
 
 Yeast Systems Biology International Course - Institut Pasteur, Montevideo, Uruguay	2011
-   * Performed double deletion assay in yeast.
-   * Elucidated and modeled the MAPK signaling pathway.
+   - \- Performed double deletion assay in yeast.
+   - \- Elucidated and modeled the MAPK signaling pathway.
    
 `2010`
 Course: Modeling and Analysis in Systems Biology - Univ de Chile, Santiago	2010
