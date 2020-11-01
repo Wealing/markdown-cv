@@ -28,25 +28,57 @@ Rue du Sablon 13, 1110 Morges, Switzerland<br/>
 
 ## Experience
 
-`2021-`
+`2020-`
 **Senior Data Scientist/Engineer**, *Qim info*, Geneva, Switzerland.
 
 Working as one of two senior members of Qim info's Data Science Pole. First mission is to bring to life Qim info's first internally developed product, which is a cloud-based application that monitors Instagram for illegal luxury watch sales activity.
-o	Define application with mockups and user requirements
-o	Define product milestones to get client feedback as efficiently as possible
-o	Define User requirements and sprints with team.
-o	Use machine-learning approaches to predict  sales activity
-o	Deployment of ML models with mlflow
-o	Create python and pySpark based backend
-o	Creation and deployment of serverless data pipelines
-o	Deploy and Manage backend Cloud infrastructure using Terraform 
-o	Continuous Deployment / Continuous Integration with Gitlab 
-o	DOCKer 
+* Define application with mockups and user requirements
+* Define product milestones to get client feedback as efficiently as possible
+* Define User requirements and sprints with team.
+* Use machine-learning approaches to predict  sales activity
+* Deployment of ML models with mlflow
+* Create python and pySpark based backend
+* Creation and deployment of serverless data pipelines
+* Deploy and Manage backend Cloud infrastructure using Terraform 
+* Continuous Deployment / Continuous Integration with Gitlab 
+* DOCKer 
 Technologies: Terraform, AWS (Lambda, Glue), Python, PySpark, mlflow, scikit-learn, Balsamiq, Gitlab
 
 
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
+`2017-2020`
+
+**SaaS Lead / Product Owner** (12.2017-04.2018), *Tsquared Insights*, Geneva, Switzerland.
+Lead development of big data analytics platform. This platform provides end-users an intuitive UI for self-service large-scale online market research, powered by Terabytes of online logs. 
+* Lead development of Web-based analytics platform. Proactively communicate, architect and implement solutions A to Z, including end-user training 
+* Responsible for delivering application in production, coordinating 4 departments (Operations, Sales, R&D, Upper Management)
+* Managed 10-person development team using Agile methodologies and remote working
+* In charge of product design, system architecting, finances/administration, deployment, testing, and client success
+* Steered platform development to fit needs of end-users
+* Hosted on AWS infrastructure and powered by Elasticsearch, Java Springboot, Angular
+Technologies: Slack, Jira, Balsamiq, Figma, Git, Elasticsearch, MariaDB, Python, AWS
+
+**Big Data Scientist / Engineer** (03.2018-01.2020), *Tsquared Insights*, Geneva, Switzerland.
+Building pipelines and data infrastructure to deliver client projects and to make team member’s jobs more efficient.
+* Automated extraction jobs performed with Hive, PySpark
+* Administrator to AWS account, handling all cloud infrastructure services (storage, clusters, pipelines, role-based user access, etc.)
+* Created and maintained internal “Product Data Base”
+* Built pipeline that performed web-scraping at large volumes (19+ sites), wrangles data, and inserts structured data to a relational DB for analysts/API’s to access
+* Successfully coordinated and led operations on Tsquared’s first API deal, including initial R&D and ongoing deliveries, from kick-off to delivery, and maintenance and updating
+* Successfully kicked-off, led and delivered Ecommerce database project
+* Creation of a method to model online user's genders based on browsing activity
+* Operated and maintained Elasticsearch cluster
+* Certified as an Elasticsearch engineer 
+* Trained in ISO 27001 Lead implementation and created a plan for cloud infrastructure and data to be certified
+Technologies: Python, AWS, Elasticsearch, Hive, Spark, R
+
+
+`2017`
+
+**Cheminformatics Consulting**, *Novo Nordisk Center for Biosustainability*, Copenhagen, Denmark.
+
+Cheminformatics and ML applied to biochemical systems
+* Cheminformatics and linear regression techniques to estimate properties of biochemical reactions. Delivered in the format of a python package built on scientific python
+Bioinformatics approach to predict novel solvents for alkanoates
 
 ## Publications
 
@@ -245,6 +277,7 @@ Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph 
 `2017-2019`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
+
 ## Professional training
 
 `2019`
@@ -269,18 +302,21 @@ Microfluidics for Lab-on-a-Chip course – EPFL, Lausanne	2016
 Whole-cell modeling summer school- Rostock
 
 `2012`
-**IGEM Regional Gold Medal**, *IGEM*, Mexico City, Mexico.<br/>
-Ya Ya ya.
+**IGEM Regional Gold Medal**, *IGEM*, Mexico City, Mexico.
+Ya Ya ya
 
+`2011`
+**EMBO Course: Introduction to Synthetic Biology** - Universidad de Buenos Aires, Argentina
+yayaya
 
-•	EMBO Course: Introduction to Synthetic Biology - Universidad de Buenos Aires, Argentina	2012
-•	
-•	Yeast Systems Biology International Course - Institut Pasteur, Montevideo, Uruguay	2011
-    o	Performed double deletion assay in yeast.
-    o	Elucidated and modeled the MAPK signaling pathway.
-•	Course: Modeling and Analysis in Systems Biology - Univ de Chile, Santiago	2010
-•	Systems Biology Approaches to the Study of the Minimal Cell – Montevideo, Uruguay	2010
-•	Volunteer at Department of Limnology for one Semester – UdelaR, Montevideo, Uruguay	2009
+Yeast Systems Biology International Course - Institut Pasteur, Montevideo, Uruguay	2011
+   * Performed double deletion assay in yeast.
+   * Elucidated and modeled the MAPK signaling pathway.
+   
+`2010`
+Course: Modeling and Analysis in Systems Biology - Univ de Chile, Santiago	2010
+Systems Biology Approaches to the Study of the Minimal Cell – Montevideo, Uruguay	2010
+Volunteer at Department of Limnology for one Semester – UdelaR, Montevideo, Uruguay	2009
 In charge of maintaining and studying the incorporation of phosphate and generation of polyphosphate crystals by the cyano-bacteria C. Raciborskii and P. agardhii.
 
 
@@ -321,24 +357,6 @@ Did not attend/judge in 2015
 **Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
 
 **Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
-
-`2017-present`
-**Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
-`2013-present`
-**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2017-2018`
-**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
-
-`2015-2017`
-**Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2014-2016`
-**Co-coordinator of Solid Earth Geophysics Masters program**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2007-2008`
-**Graduate Student Mentor**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA.
 
 ## Community outreach
 `2020`
